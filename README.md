@@ -1,0 +1,1 @@
+Implemented nearest neighbor algorithm to optimize package delivery, and reduce the total truck driving mileage by thirty percent. Implements a hash table for package tracking, allowing for real time data access. Utilizes a user interface for users to monitor their delivery, and truck status. 
